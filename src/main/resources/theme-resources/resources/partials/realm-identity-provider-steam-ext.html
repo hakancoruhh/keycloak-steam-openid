@@ -1,0 +1,16 @@
+<div class="form-group clearfix">
+    <label class="col-md-2 control-label" for="steamApiKey"><span class="required">*</span> {{:: 'steam.web-api-key' | translate}}</label>
+    <div class="col-md-6">
+        <input class="form-control" id="steamApiKey" type="text" ng-model="identityProvider.config.steamApiKey" required>
+    </div>
+    <kc-tooltip>{{:: 'steam.web-api-key.tooltip' | translate}}</kc-tooltip>
+</div>
+
+<div class="form-group clearfix">
+    <label class="col-md-2 control-label" for="realmName"><span class="required">*</span> {{:: 'steam.realm-name' | translate}}</label>
+    <div class="col-md-6">
+        <input class="form-control" id="realmName" type="text" ng-model="identityProvider.config.realmName" required>
+    </div>
+    <kc-tooltip>{{:: 'steam.realm-name.tooltip' | translate}}</kc-tooltip>
+</div>
+

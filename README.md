@@ -24,6 +24,13 @@ Clone this repository and run `mvn package`.
 
 You can see `keycloak-steam-openid-<version>.jar` under `target` directory.
 
+
+### up-and-coming
+- [ ] Optinal User attributes map to User from steam account
+- [ ] Auto hostname detect
+
+
+
 ## Licence
 
 [MIT licensed](./LICENSE).

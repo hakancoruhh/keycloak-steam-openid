@@ -11,8 +11,10 @@ Then deploy it into `$KEYCLOAK_HOME/providers` directory.
 
 ### Steam
 Access to [Steam Developer Portal](https://steamcommunity.com/dev/apikey) assign your domain name (aka realm name).
-Also your domain must be base of redirect Redirect URI
+Also your domain must be base of  Redirect URI
 > :warning: **Keycloak realm name is different thing**
+
+
 Then you can get Web API Key.
 
 ### Steam

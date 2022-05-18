@@ -37,4 +37,4 @@ You can see `keycloak-steam-openid-<version>.jar` under `target` directory.
 
 ## Author
 
-- [Hiroyuki Wada](https://github.com/hakancoruhh)
+- [hakancoruhh](https://github.com/hakancoruhh)
